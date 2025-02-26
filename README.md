@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 I'm a computer science faculty at [Park University](https://www.park.edu), Parkville, MO. Since joining Park in 2014, I've taught introductory to upper-division computer science courses and served as deparment chair (2018- 2023) and program coordinator (2024 - present). Before Park, 
 * adjunct for [Franklin University](https://www.franklin.edu/), 2012 - 2014
-* faculty and program cooordinator for computer science at [Southwestern College](https://www.sckans.edu/) in Winfield, KS, 2006 - 2012   
+* computer science faculty and program cooordinator at [Southwestern College](https://www.sckans.edu/) in Winfield, KS, 2006 - 2012   
 
 Outside of work, I enjoy small craft work like knitting, crochet, and sewing. 
