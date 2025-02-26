@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me 👋
 
 <!--
 **cpengb/cpengb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a computer science faculty at [Park University](https://www.park.edu), Parkville, MO. I've been building and teaching introductory to upper-division computer science courses there since 2014. Before Park, 
+* adjunct for [Franklin University](https://www.franklin.edu/), 2012 - 2014
+* faculty and program cooordinator for computer science at [Southwestern College](https://www.sckans.edu/) in Winfield, KS, 2006 - 2012   
+
+Outside of work, I enjoy small craft work like knitting, crochet, and sewing. 
