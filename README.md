@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a computer science faculty at [Park University](https://www.park.edu), Parkville, MO. I've been building and teaching introductory to upper-division computer science courses there since 2014. Before Park, 
+I'm a computer science faculty at [Park University](https://www.park.edu), Parkville, MO. Since joining Park in 2014, I've taught introductory to upper-division computer science courses and served as deparment chair (2018- 2023) and program coordinator (2024 - present). Before Park, 
 * adjunct for [Franklin University](https://www.franklin.edu/), 2012 - 2014
 * faculty and program cooordinator for computer science at [Southwestern College](https://www.sckans.edu/) in Winfield, KS, 2006 - 2012   
 
